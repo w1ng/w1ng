@@ -17,6 +17,6 @@ Stay hungry,stay foolish 😄
 
 ![](https://komarev.com/ghpvc/?username=w1ng&color=blueviolet)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=w1ng&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=w1ng&theme=matrix)](https://github.com/w1ng)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ng&count_private=true&show_icons=true&theme=tokyonight)
